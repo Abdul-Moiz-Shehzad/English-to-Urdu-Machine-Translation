@@ -5,3 +5,10 @@ scikit-learn
 tensorflow
 nltk
 openpyxl
+joblib
+pytest
+pyyaml
+rouge-score
+matplotlib
+rouge
+-e .
