@@ -11,4 +11,5 @@ pyyaml
 rouge-score
 matplotlib
 rouge
+streamlit
 -e .
