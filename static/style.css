@@ -1,0 +1,18 @@
+body {
+    background: #f5f7fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.translator-box {
+    background: #ffffff;
+    max-width: 700px;
+    margin: auto;
+}
+
+.translated-box {
+    background: #f1f1f1;
+    font-size: 1.25rem;
+    direction: rtl;
+    text-align: right;
+    border-left: 5px solid #0d6efd;
+}
